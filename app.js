@@ -9,8 +9,8 @@
   // --- Configuration ---
   const DEFAULT_CENTER = [36.72, -4.42];
   const DEFAULT_ZOOM = 12;
-  // Attention : points.json attendu dans data/points.json (relatif à index.html). Si tu veux un autre emplacement, adapte.
-  const RELATIVE_POINTS_PATH = 'data/points.json';
+  // Attention : points.json attendu dans points.json (relatif à index.html). Si tu veux un autre emplacement, adapte.
+  const RELATIVE_POINTS_PATH = 'points.json';
   const MAX_POINTS_FOR_TEST = null; // mettre un nombre pour limiter pendant tests
 
   // --- Vérifications initiales ---
